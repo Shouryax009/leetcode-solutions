@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shouryax009/leetcode-solutions/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |
+## Binary Search
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |
+## Sorting
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |
 <!---LeetCode Topics End-->

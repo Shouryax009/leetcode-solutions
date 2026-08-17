@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shouryax009/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0229-majority-element-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Shouryax009/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shouryax009/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0229-majority-element-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |
 ## Binary Search
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |
 ## Two Pointers
 |  |
@@ -66,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shouryax009/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

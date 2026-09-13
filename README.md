@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shouryax009/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Shouryax009/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/Shouryax009/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
+| [0620-not-boring-movies](https://github.com/Shouryax009/leetcode-solutions/tree/master/0620-not-boring-movies) |
 ## Hash Table
 |  |
 | ------- |

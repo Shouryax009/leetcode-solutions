@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shouryax009/leetcode-solutions/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Shouryax009/leetcode-solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Shouryax009/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Shouryax009/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shouryax009/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shouryax009/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shouryax009/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Shouryax009/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Shouryax009/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |

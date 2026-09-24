@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shouryax009/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shouryax009/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1901-find-a-peak-element-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shouryax009/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1901-find-a-peak-element-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shouryax009/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Dancing Links
 |  |
 | ------- |

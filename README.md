@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Shouryax009/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Shouryax009/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shouryax009/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Shouryax009/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shouryax009/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shouryax009/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shouryax009/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Shouryax009/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Shouryax009/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shouryax009/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Shouryax009/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shouryax009/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shouryax009/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Shouryax009/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -181,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Shouryax009/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shouryax009/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
